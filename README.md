@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariannenowak
 - 👀 I’m interested in a lot of things: finances, ecology, solar energy
-- 🌱 I’m currently learning some
+- 🌱 I’m currently learning about how to use GitHub :)
 - 💞️ I’m looking to collaborate on finding a job as a CFO in a startup !
 - 📫 How to reach me : marianne.nowak@mailo.fr
 
